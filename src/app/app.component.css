@@ -1,0 +1,19 @@
+:root {
+    --primary-color: #113D3A;
+    --secondary-color: #3D3D3D;
+    --click1-color: #4D9FA0;
+    --click2-color: #346879;
+    --tertiary-color: #448E8E;
+    --white-color: #FFFFFF;
+    --black-color: #000000;
+    --text-color: #3D3D3D;
+    --off-color: #FAFDFF;
+  }
+
+h1 {
+    color: #113D3A
+}
+
+p.description {
+    color: #3D3D3D
+}
